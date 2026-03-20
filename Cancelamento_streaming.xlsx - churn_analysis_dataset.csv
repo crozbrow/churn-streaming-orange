@@ -1,0 +1,101 @@
+Cliente,Idade,Gênero,Tipo de plano,Meses de assiantura,Tempo médio mensal,Valor Mensalidade,Tipo de pagamento,Cancelado
+1,25,Masculino,Básico,3,5.5,10,Cartão de crédito,Não
+2,34,Feminino,Premium,24,20.0,30,Paypal,Não
+3,45,Feminino,Básico,12,12.5,10,Cartão de crédito,Não
+4,23,Masculino,Premium,1,2.0,30,Paypal,Sim
+5,36,Feminino,Padrão,5,8.0,20,Saldo da conta,Não
+6,47,Masculino,Básico,18,15.5,10,Cartão de crédito,Sim
+7,55,Masculino,Premium,30,25.0,30,Paypal,Não
+8,29,Feminino,Padrão,6,10.0,20,Saldo da conta,Sim
+9,33,Feminino,Básico,14,18.0,10,Cartão de crédito,Não
+10,40,Masculino,Padrão,20,22.0,20,Saldo da conta,Sim
+11,25,Masculino,Básico,3,5.5,10,Cartão de crédito,Não
+12,34,Feminino,Premium,24,20.0,30,Paypal,Não
+13,45,Feminino,Básico,12,12.5,10,Cartão de crédito,Não
+14,23,Masculino,Premium,1,2.0,30,Paypal,Sim
+15,36,Feminino,Padrão,5,8.0,20,Saldo da conta,Não
+16,47,Masculino,Básico,18,15.5,10,Cartão de crédito,Sim
+17,55,Masculino,Premium,30,25.0,30,Paypal,Não
+18,29,Feminino,Padrão,6,10.0,20,Saldo da conta,Sim
+19,33,Feminino,Básico,14,18.0,10,Cartão de crédito,Não
+20,40,Masculino,Padrão,20,22.0,20,Saldo da conta,Sim
+21,25,Masculino,Básico,3,5.5,10,Cartão de crédito,Não
+22,34,Feminino,Premium,24,20.0,30,Paypal,Não
+23,45,Feminino,Básico,12,12.5,10,Cartão de crédito,Não
+24,23,Masculino,Premium,1,2.0,30,Paypal,Sim
+25,36,Feminino,Padrão,5,8.0,20,Saldo da conta,Não
+26,47,Masculino,Básico,18,15.5,10,Cartão de crédito,Sim
+27,55,Masculino,Premium,30,25.0,30,Paypal,Não
+28,29,Feminino,Padrão,6,10.0,20,Saldo da conta,Sim
+29,33,Feminino,Básico,14,18.0,10,Cartão de crédito,Não
+30,40,Masculino,Padrão,20,22.0,20,Saldo da conta,Sim
+31,25,Masculino,Básico,3,5.5,10,Cartão de crédito,Não
+32,34,Feminino,Premium,24,20.0,30,Paypal,Não
+33,45,Feminino,Básico,12,12.5,10,Cartão de crédito,Não
+34,23,Masculino,Premium,1,2.0,30,Paypal,Sim
+35,36,Feminino,Padrão,5,8.0,20,Saldo da conta,Não
+36,47,Masculino,Básico,18,15.5,10,Cartão de crédito,Sim
+37,55,Masculino,Premium,30,25.0,30,Paypal,Não
+38,29,Feminino,Padrão,6,10.0,20,Saldo da conta,Sim
+39,33,Feminino,Básico,14,18.0,10,Cartão de crédito,Não
+40,40,Masculino,Padrão,20,22.0,20,Saldo da conta,Sim
+41,25,Masculino,Básico,3,5.5,10,Cartão de crédito,Não
+42,34,Feminino,Premium,24,20.0,30,Paypal,Não
+43,45,Feminino,Básico,12,12.5,10,Cartão de crédito,Não
+44,23,Masculino,Premium,1,2.0,30,Paypal,Sim
+45,36,Feminino,Padrão,5,8.0,20,Saldo da conta,Não
+46,47,Masculino,Básico,18,15.5,10,Cartão de crédito,Sim
+47,55,Masculino,Premium,30,25.0,30,Paypal,Não
+48,29,Feminino,Padrão,6,10.0,20,Saldo da conta,Sim
+49,33,Feminino,Básico,14,18.0,10,Cartão de crédito,Não
+50,40,Masculino,Padrão,20,22.0,20,Saldo da conta,Sim
+51,25,Masculino,Básico,3,5.5,10,Cartão de crédito,Não
+52,34,Feminino,Premium,24,20.0,30,Paypal,Não
+53,45,Feminino,Básico,12,12.5,10,Cartão de crédito,Não
+54,23,Masculino,Premium,1,2.0,30,Paypal,Sim
+55,36,Feminino,Padrão,5,8.0,20,Saldo da conta,Não
+56,47,Masculino,Básico,18,15.5,10,Cartão de crédito,Sim
+57,55,Masculino,Premium,30,25.0,30,Paypal,Não
+58,29,Feminino,Padrão,6,10.0,20,Saldo da conta,Sim
+59,33,Feminino,Básico,14,18.0,10,Cartão de crédito,Não
+60,40,Masculino,Padrão,20,22.0,20,Saldo da conta,Sim
+61,25,Masculino,Básico,3,5.5,10,Cartão de crédito,Não
+62,34,Feminino,Premium,24,20.0,30,Paypal,Não
+63,45,Feminino,Básico,12,12.5,10,Cartão de crédito,Não
+64,23,Masculino,Premium,1,2.0,30,Paypal,Sim
+65,36,Feminino,Padrão,5,8.0,20,Saldo da conta,Não
+66,47,Masculino,Básico,18,15.5,10,Cartão de crédito,Sim
+67,55,Masculino,Premium,30,25.0,30,Paypal,Não
+68,29,Feminino,Padrão,6,10.0,20,Saldo da conta,Sim
+69,33,Feminino,Básico,14,18.0,10,Cartão de crédito,Não
+70,40,Masculino,Padrão,20,22.0,20,Saldo da conta,Sim
+71,25,Masculino,Básico,3,5.5,10,Cartão de crédito,Não
+72,34,Feminino,Premium,24,20.0,30,Paypal,Não
+73,45,Feminino,Básico,12,12.5,10,Cartão de crédito,Não
+74,23,Masculino,Premium,1,2.0,30,Paypal,Sim
+75,36,Feminino,Padrão,5,8.0,20,Saldo da conta,Não
+76,47,Masculino,Básico,18,15.5,10,Cartão de crédito,Sim
+77,55,Masculino,Premium,30,25.0,30,Paypal,Não
+78,29,Feminino,Padrão,6,10.0,20,Saldo da conta,Sim
+79,33,Feminino,Básico,14,18.0,10,Cartão de crédito,Não
+80,40,Masculino,Padrão,20,22.0,20,Saldo da conta,Sim
+81,25,Masculino,Básico,3,5.5,10,Cartão de crédito,Não
+82,34,Feminino,Premium,24,20.0,30,Paypal,Não
+83,45,Feminino,Básico,12,12.5,10,Cartão de crédito,Não
+84,23,Masculino,Premium,1,2.0,30,Paypal,Sim
+85,36,Feminino,Padrão,5,8.0,20,Saldo da conta,Não
+86,47,Masculino,Básico,18,15.5,10,Cartão de crédito,Sim
+87,55,Masculino,Premium,30,25.0,30,Paypal,Não
+88,29,Feminino,Padrão,6,10.0,20,Saldo da conta,Sim
+89,33,Feminino,Básico,14,18.0,10,Cartão de crédito,Não
+90,40,Masculino,Padrão,20,22.0,20,Saldo da conta,Sim
+91,25,Masculino,Básico,3,5.5,10,Cartão de crédito,Não
+92,34,Feminino,Premium,24,20.0,30,Paypal,Não
+93,45,Feminino,Básico,12,12.5,10,Cartão de crédito,Não
+94,23,Masculino,Premium,1,2.0,30,Paypal,Sim
+95,36,Feminino,Padrão,5,8.0,20,Saldo da conta,Não
+96,47,Masculino,Básico,18,15.5,10,Cartão de crédito,Sim
+97,55,Masculino,Premium,30,25.0,30,Paypal,Não
+98,29,Feminino,Padrão,6,10.0,20,Saldo da conta,Sim
+99,33,Feminino,Básico,14,18.0,10,Cartão de crédito,Não
+100,40,Masculino,Padrão,20,22.0,20,Saldo da conta,Sim
